@@ -1,0 +1,162 @@
+HTTrack3.48-22+htsswf+htsjava launched on Tue, 10 Jan 2017 17:51:44 at http://blockscore.com/?>postfile:D:\Web\BS\hts-post1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://blockscore.com/?>postfile:D:\Web\BS\hts-post1 -O1 "D:\Web\BS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:51:44	Warning: 	Moved Permanently for blockscore.com/robots.txt
+17:51:44	Warning: 	Redirected link is identical because of 'URL Hack' option: blockscore.com/robots.txt and https://blockscore.com/robots.txt
+17:51:44	Warning: 	Warning moved treated for blockscore.com/robots.txt (real one is https://blockscore.com/robots.txt)
+17:51:45	Warning: 	Moved Permanently for blockscore.com/?>postfile:D:\Web\BS\hts-post1
+17:51:45	Warning: 	File has moved from blockscore.com/?>postfile:D:\Web\BS\hts-post1 to https://blockscore.com/
+17:52:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:27	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:32	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:33	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:33	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:33	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:33	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:33	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:35	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 54448): https://manage.blockscore.com/support
+17:52:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:39	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:43	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:43	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:52:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:52:43	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:07	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:08	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:08	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:09	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:09	Warning: 	Moved Permanently for blog.blockscore.com/robots.txt
+17:53:09	Warning: 	Redirected link is identical because of 'URL Hack' option: blog.blockscore.com/robots.txt and https://blog.blockscore.com/robots.txt
+17:53:09	Warning: 	Warning moved treated for blog.blockscore.com/robots.txt (real one is https://blog.blockscore.com/robots.txt)
+17:53:09	Warning: 	Moved Permanently for blog.blockscore.com/selecting-an-id-verification-provider/
+17:53:09	Warning: 	Redirected link is identical because of 'URL Hack' option: blog.blockscore.com/selecting-an-id-verification-provider/ and https://blog.blockscore.com/selecting-an-id-verification-provider/
+17:53:09	Warning: 	File has moved from blog.blockscore.com/selecting-an-id-verification-provider/ to https://blog.blockscore.com/selecting-an-id-verification-provider/
+17:53:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:09	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:12	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:12	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:15	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:44	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:45	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:45	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:46	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:48	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:48	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:48	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:48	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:48	Warning: 	Retry after error -4 (Incorrect length (12222 Bytes, 74196 expected)) at link https://manage.blockscore.com/legal/terms (from https://blockscore.com/)
+17:53:48	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://w.chatlio.com/w.chatlio-widget.js (from https://blockscore.com/)
+17:53:48	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:48	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:48	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:48	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:49	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:51	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:54	Warning: 	Moved Permanently for docs.blockscore.com/robots.txt
+17:53:54	Warning: 	Redirected link is identical because of 'URL Hack' option: docs.blockscore.com/robots.txt and https://docs.blockscore.com/robots.txt
+17:53:54	Warning: 	Warning moved treated for docs.blockscore.com/robots.txt (real one is https://docs.blockscore.com/robots.txt)
+17:53:54	Warning: 	Moved Permanently for docs.blockscore.com/v3.0/curl/
+17:53:54	Warning: 	Redirected link is identical because of 'URL Hack' option: docs.blockscore.com/v3.0/curl/ and https://docs.blockscore.com/v3.0/curl/
+17:53:54	Warning: 	File has moved from docs.blockscore.com/v3.0/curl/ to https://docs.blockscore.com/v3.0/curl/
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Warning: 	Moved Permanently for docs.blockscore.com/v4.0/curl/
+17:53:55	Warning: 	Redirected link is identical because of 'URL Hack' option: docs.blockscore.com/v4.0/curl/ and https://docs.blockscore.com/v4.0/curl/
+17:53:55	Warning: 	File has moved from docs.blockscore.com/v4.0/curl/ to https://docs.blockscore.com/v4.0/curl/
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:55	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://manage.blockscore.com/legal/terms (from https://blockscore.com/)
+17:53:58	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://w.chatlio.com/w.chatlio-widget.js (from https://blockscore.com/)
+17:53:59	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:53:59	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:53:59	Warning: 	Moved Permanently for https://manage.blockscore.com/
+17:53:59	Warning: 	File has moved from https://manage.blockscore.com/ to https://manage.blockscore.com/test/overview
+17:54:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:02	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:02	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:02	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:03	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:03	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://manage.blockscore.com/legal/terms (from https://blockscore.com/)
+17:54:04	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://w.chatlio.com/w.chatlio-widget.js (from https://blockscore.com/)
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+17:54:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://manage.blockscore.com/support -> D:/Web/BS/manage.blockscore.com/support.8.delayed
+17:54:04	Warning: 	link is probably looping, type unknown, aborting: https://manage.blockscore.com/support
+
+HTTrack Website Copier/3.48-22 mirror complete in 2 minutes 20 seconds : 111 links scanned, 93 files written (4673797 bytes overall) [1571292 bytes received at 11223 bytes/sec], 4188494 bytes transferred using HTTP compression in 65 files, ratio 24%, 1.8 requests per connection
+(63 errors, 88 warnings, 0 messages)
